@@ -24,8 +24,8 @@ export default class App extends Component {
     this.state = {
       data: [
         { label: "Going to learn React", important: true, liked: false, id: 1 },
-        { label: "That's soo good", important: false, liked: false, id: 2 },
-        { label: "omg!!", important: false, liked: false, id: 3 },
+        { label: "Great!", important: false, liked: false, id: 2 },
+        { label: "omg!", important: false, liked: false, id: 3 },
       ],
 	  term: "",
 	  filter: 'all'
